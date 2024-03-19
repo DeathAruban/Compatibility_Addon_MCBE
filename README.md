@@ -13,3 +13,25 @@
 <img alt="YouTube Video Views" src="https://img.shields.io/youtube/views/QoqngsfcNZE?style=social">
 <img alt="GitHub" src="https://img.shields.io/github/license/DeathAruban/Compatibility_Addon_MCBE">
 </p>
+
+# Description
+If you are using my components and have found it difficult to use them because the interfaces do not appear, use this texture. It will allow you to make the interfaces compatible with each other.
+
+## Language support 🌍
+- English (United States)
+- English (United Kingdom)
+- if you find errors or your language is missing, send me a message, if you provide me with a correct translation I will add credits for support 🤝
+
+# Check if the version or where you are using the addon is compatible
+
+| Supported | World | Realms |Server Dedicated | Custom servers | Windows | Mobile | PS4/PS5 | Xbox | Nintendo Switch |
+| ------- | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ |
+| 1.20.71   |:white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| 1.20.60   |:white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| 1.20.50   |:white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| previous versions   | :x:  | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | 
+
+# How does it work
+<p align="center">
+ <img src="https://github.com/DeathAruban/Compatibility_Addon_MCBE/blob/main/img/texture.png" loading="eager" />
+</p>
