@@ -51,6 +51,7 @@ If you have followed the steps described here, you will see all the user interfa
 <p align="center">
  <img src="https://github.com/DeathAruban/Compatibility_Addon_MCBE/blob/main/img/texture3.png" loading="eager" />
 </p>
+
 # How to install
 
 ## 🖥️ Computer
