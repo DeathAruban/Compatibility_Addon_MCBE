@@ -98,6 +98,6 @@ If you have followed the steps described here, you will see all the user interfa
 
 ## For more info visit my discord or watch the video guide on my channel
 - ✉️ Discord Link : [Click](https://discord.gg/NKy9A9RAe8)
-- 💻 Youtube Link :[Click]()
+- 💻 Youtube Link :[Click](https://www.youtube.com/watch?v=OrHUjxbnz8Y&ab_channel=Death_Aruban%E2%84%A2)
 
 ## Thank you for choosing this component and to appreciate how it works 😄
