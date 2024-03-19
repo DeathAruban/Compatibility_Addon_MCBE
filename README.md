@@ -1,6 +1,6 @@
 <p align="center">
      <a href="https://github.com/DeathAruban/BreadcrumbsCompatibility_Addon_MCBE">
-		<img src="https://github.com/DeathAruban/BreadcrumbsCompatibility_Addon_MCBE/blob/main/img/compatibility_addon +.png" loading="eager" />
+		<img src="https://github.com/DeathAruban/Breadcrumbs/Compatibility_Addon_MCBE/blob/main/img/compatibility_addon +.png" loading="eager" />
 	</a><br>
     <b>Addon Enchant + for Minecraft: Bedrock Edition written in Json and javascript MC (API 1.20.71)</b>
 <p align="center">
