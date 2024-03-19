@@ -31,7 +31,72 @@ If you are using my components and have found it difficult to use them because t
 | 1.20.50   |:white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | previous versions   | :x:  | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | 
 
+## Components currently compatible with:
+Remember, this list will be updated every time a new addon is added or an existing one is updated.
+- [ Enchant + ](https://github.com/DeathAruban/Enchant-MCBE) v 1.0.1
+- [ Loot Bag + ](https://github.com/DeathAruban/Loot-Bag-MCBE) v 1.0.1
+- [ Lore Item + ](https://github.com/DeathAruban/Lore-Item-MCBE) v 4.0.0-4.0.1
+- [ Chat Ranks + ](https://github.com/DeathAruban/Chat-Ranks-MCBE) v 1.0.0-1.0.1
+  
 # How does it work
+To make the best use of the texture, remember to place it first compared to other textures, otherwise it will not work.
 <p align="center">
  <img src="https://github.com/DeathAruban/Compatibility_Addon_MCBE/blob/main/img/texture.png" loading="eager" />
 </p>
+If you don’t know how to position the texture, just click on the compatibility texture and arrows will appear, as in the example below. By pressing the up arrow, you will move the texture above the one that is above it. Keep doing this until the compatibility texture is in the first position.
+<p align="center">
+ <img src="https://github.com/DeathAruban/Compatibility_Addon_MCBE/blob/main/img/texture2.png" loading="eager" />
+</p>
+If you have followed the steps described here, you will see all the user interfaces correctly for each of my components.
+<p align="center">
+ <img src="https://github.com/DeathAruban/Compatibility_Addon_MCBE/blob/main/img/texture3.png" loading="eager" />
+</p>
+# How to install
+
+## 🖥️ Computer
+
+📁.mcaddon version
+- Download the Compatibility Addon +.mcaddon version
+- click on it to open and it will automatically insert it into the game
+- 
+📦.zip version
+- go to 
+ ```bash
+%userprofile%\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\
+```
+- pull the texture into the resources folder instead the behavior into the behaviors folder
+
+## 📱 Mobile
+
+📁.mcaddon version
+- Download the Compatibility Addon +.mcaddon version
+- click on it to open and it will automatically insert it into the game
+
+📦.zip version
+- download or use an application to manage files in the phone, I recommend this [RS Gestore File - Explorer EX](https://play.google.com/store/apps/details?id=com.rs.explorer.filemanager&hl=it&gl=US)
+- (ANDROID & AMAZON FIRE OS) go to 
+ ```bash
+/Android/data/com.mojang.minecraftpe/files/games/com.mojang/
+```
+
+- (APPLE IOS ) go to
+
+ ```bash
+/On My iPhone/Minecraft/games/com.mojang/
+```
+
+- pull the texture into the resources folder instead the behavior into the behaviors folder
+
+## 🕹️ Console (PS4/PS5/Switch/Xbox and other)
+
+📦.zip version
+- create dedicated bedrock realm or server
+- pull the texture into the resources folder instead the behavior into the behaviors folder (Realm or Server)
+- enter the realm or the server and you will find your component,remember to enable the settings necessary for operation listed before
+- ⛔you can't put it directly in the console, the manufacturer things don't allow to import external files, it is possible only in case you have made a modification of your console
+
+## For more info visit my discord or watch the video guide on my channel
+- ✉️ Discord Link : [Click](https://discord.gg/NKy9A9RAe8)
+- 💻 Youtube Link :[Click]()
+
+## Thank you for choosing this component and to appreciate how it works 😄
